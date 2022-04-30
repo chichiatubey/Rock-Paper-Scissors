@@ -1,1 +1,3 @@
-# Rock-Paper-Scissors-In-JavaScript
+# Rock-Paper-Scissors
+
+Bulit using Javascript.
